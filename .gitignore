@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Common editor / system files
+*.swp
+*.swo
+Thumbs.db
