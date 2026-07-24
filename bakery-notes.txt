@@ -1,0 +1,4 @@
+# Bakery Notes
+
+## Stage test 1
+### Default text for stage 1
