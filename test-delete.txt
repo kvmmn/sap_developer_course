@@ -1,1 +1,2 @@
 there wre once a text here living!
+Practice change 3 for git staging.
