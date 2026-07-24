@@ -5,3 +5,6 @@
 
 ## Stage test 2
 ### Default text for stage 2
+
+## Stage test 3
+### Default text for stage 3
