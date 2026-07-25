@@ -1,6 +1,8 @@
 # SAP Developer Course Practice
 
-This public repository contains exercises and code samples created while working through an SAP developer course.
+This repository documents my practical progress through the **Startupistan SAP ABAP Developer Course**, a learning path focused on building the foundations needed to develop and work with SAP business systems.
+
+It collects my public exercises and code samples across computer and digital literacy, development-environment setup, Git and GitHub, and later SAP/ABAP practice. Private course materials and personal study notes are intentionally kept outside the public Git history.
 
 ## Repository structure
 
