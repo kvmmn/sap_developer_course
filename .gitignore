@@ -2,7 +2,34 @@
 .DS_Store
 **/.DS_Store
 
-# Common editor / system files
+# Private local course materials (never publish)
+/_text_tracks/
+/non-technical documents/
+
+# Editors
+.vscode/
+*.code-workspace
 *.swp
 *.swo
+*~
 Thumbs.db
+
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local environments
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
