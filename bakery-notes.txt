@@ -15,3 +15,8 @@
 Try sourdough recipe!
 
 "Edited in the browser"
+<<<<<<< HEAD
+=======
+
+"Edited in the browser after first time rejection"
+>>>>>>> 246262f2b978a8f9c387100d3ad5619e9a0a9762
